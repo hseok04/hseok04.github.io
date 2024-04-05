@@ -1,12 +1,10 @@
-# hseok04.github.io
-<!DOCTYPE html>
 <html>
     <head>
         <title>회원가입 폼</title>
     </head>
     <body>
         <!-- 첫 번째 영역 -->
-        <div style="background-color:lightgoldenrodyellow">구역1</div>
+        <div style="background-color:lightgoldenrodyellow"></div>
         <div style="border : 20px solid green">
         <!-- 회워가입 -->
         <div style="background-color:lightseagreen">
@@ -26,13 +24,13 @@
             프로필 이미지 : <input type="file" /><br/><br/>
             <button type="reset" > 초기화   </button>
             <button type="submit"> 회원가입</button>
-            <br/></div>
+            <br/>
             <!-- 두 번째 영역-->
-            <div style=" background-color:#CF0">구역2
+            <div style=" background-color:#CF0">
             <div style="border : 2px solid green">
             <div class="d4">padding-box coler : blue
             <div class="d5">content-box coler : red</div>
-            <div style="border : 100px solid green">
+            0<div style="border : 100px solid green">
             <!--시작 -->
             <a href="https://hseok04.github.io/game.html">게임 시작</a>
         </div>
