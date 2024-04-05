@@ -34,7 +34,7 @@
             <div class="d5">content-box coler : red</div>
             <div style="border : 100px solid green">
             <!--시작 -->
-            <a href="naver.com">게임 시작</a>
+            <a href="https://hseok04.github.io/game.html">게임 시작</a>
         </div>
     </body>
 </html>
