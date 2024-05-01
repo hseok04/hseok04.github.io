@@ -8,6 +8,5 @@
 
             <!--시작 -->
             <a href="https://hseok04.github.io/game.html">게임 시작</a>
-        </div>
     </body>
 </html>
